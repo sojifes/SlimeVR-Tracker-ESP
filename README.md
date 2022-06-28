@@ -1,3 +1,8 @@
+## Firmware Modification description
+
+修复部分9255无法进入校准的问题
+增加MPU6500/MPU6050+QMC588L的支持
+
 # SlimeVR Tracker firmware for ESP
 
 Firmware for ESP8266 / ESP32 microcontrollers and different IMU sensors to use them as a vive-like trackers in VR.
