@@ -2,7 +2,7 @@
 
 修复部分9255无法进入校准的问题
 
-增加MPU6500/MPU6050+QMC588L的支持（在6583分支）
+增加MPU6500/MPU6050+QMC588L的支持（在sandwich分支）
 
 # SlimeVR Tracker firmware for ESP
 
